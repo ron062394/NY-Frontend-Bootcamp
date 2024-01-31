@@ -4,7 +4,7 @@
     border: 2px black solid;
     background-color: lightblue;
     text-align: center;
-    justify-content: center;
+    margin: auto;
    
 }
 .cross-axis {
