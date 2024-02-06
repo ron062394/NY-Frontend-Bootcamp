@@ -26,4 +26,3 @@ heading1[0].textContent = 'All about DOM Manipulataion';
 
 //modify attribute
 heading2[0].setAttribute('class', 'highlight')
-
